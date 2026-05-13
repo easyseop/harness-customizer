@@ -14,7 +14,7 @@
 
 | 항목 | 값 |
 |------|-----|
-| **BASE_HARNESS_PATH** | `/path/to/your/ai-harness-template` |
+| **BASE_HARNESS_PATH** | `/Users/seop/ai-harness-work/ai-harness-template-fresh` |
 | agents 폴더 | `{BASE_HARNESS_PATH}/.claude/agents/` |
 | commands 폴더 | `{BASE_HARNESS_PATH}/.claude/commands/` |
 
